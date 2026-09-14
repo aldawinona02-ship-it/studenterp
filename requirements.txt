@@ -1,0 +1,8 @@
+-e fastapi
+joblib
+numpy
+pydantic
+resend
+uvicorn
+scikit-learn
+pandas
